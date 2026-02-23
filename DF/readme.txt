@@ -12,10 +12,10 @@ use target encoding on features
 
 fine tuned the models using randomized search
 computed mape from all 3 models - for all moonths
-
 mape is sentive to outliers
 
 
+giving weightage to recent data
 
 
 
