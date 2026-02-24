@@ -18,6 +18,3 @@ mape is sentive to outliers
 giving weightage to recent data
 
 
-
-
-
